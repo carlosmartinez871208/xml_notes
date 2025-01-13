@@ -41,6 +41,3 @@
 			14.1 Pointer type.
 			14.2 Pointer name.
 			14.3 Pointer initialization.
-
-### Open prototypes folder.
-	Here you will find templates about how to create different C/C++ elements: source code files, header files, C/C++ project, functions, variables, etc...
