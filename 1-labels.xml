@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Ejemplo generico de xml -->
+<labels>
+	<label1>
+		<mensaje age="37">Hello xml</mensaje>
+		<autor>Carlos Martinez</autor>
+	</label1>
+	<label2>
+		<mensaje age="4">Hola papa</mensaje>
+		<autor>Ninmah Martinez</autor>	
+	</label2>
+</labels>
